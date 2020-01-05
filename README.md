@@ -1,19 +1,8 @@
 React Orderbook
 ============================
-
-* Version: 1.0.3
-* Developer: Ryan Powszok
-* Website: [ryanpowszok.com](https://ryanpowszok.com)
-* Copyright: (c) 2018 Ryan Powszok
-* Last Updated: 08/24/2018 Created: 08/23/2018
-
 ## Overview
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
----
-## Helpful URLs
-- [React Orderbook](https://ryanpowszok.github.io/react-orderbook/)
 
 ---
 ## Project Structure
@@ -63,4 +52,4 @@ Deploys to Github pages.
 
 ---
 
-Project repo [React Orderbook](https://github.com/ryanpowszok/react-orderbook).
+Project repo [React Orderbook](https://github.com/vikasmagar512/Assignment).
